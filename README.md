@@ -41,7 +41,7 @@
  * 추가할 파일(폴더안의 내용을 모두 올림)
    git add .
  * 히스토리 만들기(-m은 메세지를 의미, ""안에는 히스토리이름을 적음)
-   git commit -m "first commit"
+   git commit -m "작업시작"
 
 * Github의 repository를 만들고 그 주소와 연결하기
   git remote add origin https://github.com/sxhyxn/css_flex.git
@@ -52,3 +52,8 @@
 
 * Github에 올리기
     git push origin master
+    
+    
+![image](https://user-images.githubusercontent.com/129706893/235424935-9b1c99c7-ca3a-4c8e-8691-5385210103ee.png)
+
+-------------------------------
