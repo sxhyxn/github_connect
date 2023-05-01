@@ -49,3 +49,6 @@
 * 연결이 잘 되었는지 확인하기(사용안해도 됨)
 
     git remote -v
+
+* Github에 올리기
+    git push origin master
