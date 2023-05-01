@@ -42,3 +42,10 @@
    git add .
  * 히스토리 만들기(-m은 메세지를 의미, ""안에는 히스토리이름을 적음)
    git commit -m "first commit"
+
+* Github의 repository를 만들고 그 주소와 연결하기
+  git remote add origin https://github.com/sxhyxn/css_flex.git
+  
+* 연결이 잘 되었는지 확인하기(사용안해도 됨)
+
+    git remote -v
