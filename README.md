@@ -56,4 +56,13 @@
     
 ![image](https://user-images.githubusercontent.com/129706893/235424935-9b1c99c7-ca3a-4c8e-8691-5385210103ee.png)
 
--------------------------------
+--------------------------------
+## 수정하여 다시 업로드 할때
+
+1. 기존의 코드를 다운 받는 행위를 해야한다.
+   
+    git pull origin master
+    
+2. 다시 push(업로드) 해야한다.
+  
+    git push origin master
