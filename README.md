@@ -20,7 +20,7 @@
 
 * 유저이름 설정
 
-      git config --global user.name "hyn"
+      git config --global user.name "hyun"
 
 * 유저이메일 설정하기(반드시 github에 가입했던 이메일주소와 동일해야한다)
 
