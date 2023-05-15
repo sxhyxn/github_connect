@@ -71,14 +71,24 @@
 -----------------------------------
 # Github 협업하는 방법
 
+#사원입장------------------------------------
+
 1.소스코드 다운로드 (초록색 <>code에서)
       git clone 주소
       git clone https://github.com/sxhyxn/Hanacard.git
       
 2.수정 후 브랜치(branch) 만들기
+      
+      //git checkout -b 브랜치이름
       git checkout -b hyun
       
       Switched to a new branch 'hyun' 떠야함
+      
+      git add .
+      git commit -m "신입이소현"
+      
+      //git push origin 브랜치이름
+      git push origin hyun
 ![image](https://github.com/sxhyxn/github_connect/assets/129706893/03df63f7-d480-4e9e-8b48-0715ab4462aa)
 
       
